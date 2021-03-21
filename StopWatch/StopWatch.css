@@ -1,0 +1,29 @@
+/* Variabes */  
+/*$orange: #ffa600;
+$base-color:$orange ;*/
+
+body {
+background: #ffa600;
+height:100%;
+text-align: center;
+margin-top: 200px;
+}
+
+
+#timer {
+  font-family: "Lato";
+  font-size: 120px;
+  font-weight: 250;
+  color: white;
+}
+
+button {
+  width: 100px;
+  height: 35px;
+  margin: 7px;
+  background-color: white;
+}
+
+button:hover{
+  cursor:pointer;
+}

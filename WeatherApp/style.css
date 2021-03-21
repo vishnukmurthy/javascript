@@ -1,0 +1,16 @@
+body {
+  background: #bbdeff;
+  height: 100%;
+  text-align: center;
+  margin-top: 200px;
+}
+
+
+#cities:hover{
+  cursor:pointer;
+}
+
+#Weather {
+  font-family: "Times";
+  color: black;
+}
